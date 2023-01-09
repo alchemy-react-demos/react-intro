@@ -1,0 +1,11 @@
+.cat-container {
+  border: 2px solid black;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.cat-container img {
+  width: 75%;
+}
