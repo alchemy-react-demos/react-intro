@@ -1,6 +1,7 @@
 const cats = [
   {
     name: 'Felix',
+    image: 'Felix.webp',
     type: 'Tuxedo',
     url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Felix_the_cat.svg/200px-Felix_the_cat.svg.png',
     year: 1892,
@@ -10,6 +11,7 @@ const cats = [
   },
   {
     name: 'Garfield',
+    image: 'Garfield.png',
     type: 'Orange Tabby',
     url: 'https://static.wikia.nocookie.net/garfield/images/9/9f/GarfieldCharacter.jpg',
     year: 1978,
