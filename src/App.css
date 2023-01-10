@@ -1,5 +1,9 @@
 .App {
-  background-size: cover;
-  height: 100vh;
-  width: 100vw;
+  background-size: contain;
+  color: purple;
+}
+.cats-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }

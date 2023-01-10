@@ -21,6 +21,7 @@ const cats = [
   },
   {
     name: 'Duchess',
+    image: 'Duchess.webp',
     type: 'Angora',
     url: 'https://static.wikia.nocookie.net/disney/images/e/eb/Profile_-_Duchess.jpeg',
     year: 1970,
@@ -30,6 +31,7 @@ const cats = [
   },
   {
     name: 'Stimpy',
+    image: 'Stimpy.png',
     type: 'Manx',
     url: 'https://static.wikia.nocookie.net/renandstimpy/images/c/c1/Ren-stimpy-25-anniversar-hp2.png',
     year: 1990,
@@ -38,6 +40,7 @@ const cats = [
   },
   {
     name: 'Sylvester',
+    image: 'Sylvester.webp',
     type: 'Tuxedo',
     url: 'https://static.wikia.nocookie.net/charactercommunity/images/7/73/SylvesterDance.png',
     year: 1945,
@@ -46,6 +49,7 @@ const cats = [
   },
   {
     name: 'Tigger',
+    image: 'Tigger.png',
     type: 'Tiger',
     url: 'https://www.pinclipart.com/picdir/big/150-1504133_tigger-tigger-cartoon-me-clipart-png-image-download.png',
     year: 1928,
@@ -54,6 +58,7 @@ const cats = [
   },
   {
     name: 'Hello Kitty',
+    image: 'Kitty.webp',
     type: 'Angora',
     url: 'https://cdn.shopify.com/s/files/1/0054/4371/5170/products/FiGPiN_360HelloKittySANRIOPIN.png?v=1627413934',
     year: 1974,
@@ -62,6 +67,7 @@ const cats = [
   },
   {
     name: 'Hobbes',
+    image: 'Hobbes.jpeg',
     type: 'Tiger',
     url: 'https://sketchok.com/images/articles/01-cartoons/000-va/102/10.jpg',
     year: 1985,

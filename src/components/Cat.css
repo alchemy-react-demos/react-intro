@@ -1,11 +1,12 @@
 .cat-container {
   border: 2px solid black;
-  width: 30%;
+  width: 20%;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
   background-color: white;
+  margin: 5px;
 }
 .cat-container img {
   width: 75%;
